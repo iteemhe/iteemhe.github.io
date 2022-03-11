@@ -10,17 +10,13 @@ redirect_from:
 {% include base_path %}
 
 Education
-
 ======
-
 * B.S. Computer Science, University of Michigan - Ann Arbor, 2021-2024
 * B.S. Economics, University of Michigan - Ann Arbor, 2021-2024
 * B.S. Computer Science, University of Utah, 2019-2021
 
 Work experience
-
 ======
-
 * Software Engineer Intern - San Francisco, CA Jun 2022 - Aug 2022
   * Udemy, Inc.
   * Provide tooling to make developers more productive and our software consistent.
@@ -34,43 +30,11 @@ Work experience
   * Leveraged my understanding of students’ psychology behind learning and teaching strategies.
 
 Skills
-
 ======
-
 * Programming Language: C/C++, Java, Kotlin, Rust, Python, JavaScript, Shell, R, MATLAB, Stata
-
 * Technology: Git, JUnit 5, Gradle, CMake, Flask, React, HTML, CSS, LATEX, SQL, TensorFlow, Keras, UNIX, Linux
 
-<!-- Publications
-
-======
-
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-Teaching
-======
-
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Service and leadership
-======
-
-* Currently signed in to 43 different slack teams -->
-
 Volunteer
-
 ======
-
 * Open Source Developer - Aug 2021 - Present
   * Contributor in jamesjuett/lobster, a C++ Interactive Program Visualization Tool.
